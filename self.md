@@ -1,5 +1,5 @@
 ## zakeer
 
-- Skills
-- portofolio
-- contact
+- [Skills](./Skills.md)
+- [portofolio](https://zakeer.me/)
+- [contact information](./contact/detalis.md)

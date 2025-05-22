@@ -7,6 +7,16 @@
 - Burger
 - Fries
 
+## Links
+```md
+[text](path)
+```
+Example
+```md
+[Visit Google](https://www.google.com/)
+```
+Preview
+[Visit Google](https://www.google.com/)
 
 ### HTML Elements
 ```html
