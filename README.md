@@ -18,6 +18,22 @@ Example
 Preview
 [Visit Google](https://www.google.com/)
 
+
+
+## Image
+```md
+![Alternate Text](image-Url)
+```
+
+Example
+```md
+![Google Logo](https://www.edigitalagency.com.au/wp-content/uploads/small-google-logo-png-transparent-background-600x200.png)
+```
+
+preview
+
+![Google Logo](https://www.edigitalagency.com.au/wp-content/uploads/small-google-logo-png-transparent-background-600x200.png)
+
 ### HTML Elements
 ```html
 - <>     open bracket

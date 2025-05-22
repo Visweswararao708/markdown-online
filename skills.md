@@ -1,7 +1,7 @@
 ## Skills
 
 #### Frontend
-![Skills](https://miro.medium.com/v2/resize:fit:860/1*-im5SQpHmbnv82Bp5oBbhA.png)
+![Front Skills](https://miro.medium.com/v2/resize:fit:860/1*-im5SQpHmbnv82Bp5oBbhA.png)
 - HTML
 - CSS
 - JS
@@ -9,5 +9,6 @@
 
 
 #### Backend
+![Backend Skills](./Programming_Languages.png)
 - Nodejs
 - Mysql
